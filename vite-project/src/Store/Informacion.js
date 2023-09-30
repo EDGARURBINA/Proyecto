@@ -32,6 +32,4 @@ Populares:"JUEGOS POPULARES",Final:"PROXIMO LANZAMIENTO"
 };
 
 
-
-
 export  default Info;

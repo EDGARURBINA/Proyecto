@@ -20,7 +20,7 @@ return(
  <Navegacion value={Info.Populares} ></Navegacion> 
 <Populares></Populares>
  <Navegacion value={Info.Final} ></Navegacion> 
-<Final></Final>
+<Final></Final>   
 
 
 </>

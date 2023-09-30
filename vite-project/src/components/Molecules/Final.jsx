@@ -6,9 +6,6 @@ import Titulo from "../Atoms/Titulo";
 import Info from "../../Store/Informacion";
 import Imagen from "../Atoms/img";
 
-
-
-
 function Final (){
     return(
         <>
@@ -18,11 +15,10 @@ function Final (){
                <Parrafo>{Info.Juego.Parrafo}</Parrafo>
             </Article>
             <Imagen src={Info.Juego.imagen} alt="imagen" tercery={true} />
-
         </Contenedor>
         </>
 
-  
+
 
     )
 
